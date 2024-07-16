@@ -10,6 +10,6 @@ int main() {
 	cpp.vctVirtual.push_back(&d3);
 	cpp.vctVirtual.push_back(&d4);
 	cpp.sort();
-	cpp.copyData();
+	//cpp.copyData();	
 	int x = 0;
 }
